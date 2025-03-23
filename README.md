@@ -1,4 +1,4 @@
-## Hi there! Mirela's here! 👩‍🔬🧙‍♀️
+# Hi there! Mirela's here! 👩‍🔬🧙‍♀️
 
 👩‍💻 Bioinformatics student at Utrecht University<br/>
 🏄‍♀️ Advisor at SURF Research Cloud <br/>
